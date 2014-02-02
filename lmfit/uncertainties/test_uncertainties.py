@@ -22,7 +22,7 @@ import sys
 
 # Local modules
 
-from __init__ import (ufloat, AffineScalarFunc, __author__, Variable,
+from lmfit.uncertainties.__init__ import (ufloat, AffineScalarFunc, __author__, Variable,
                       nominal_value, NumericalDerivatives, to_affine_scalar,
                       _modified_operators, _modified_ops_with_reflection,
                       covariance_matrix, wrap, std_dev, correlated_values,

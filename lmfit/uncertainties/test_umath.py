@@ -13,7 +13,7 @@ import sys
 import math
 
 # Local modules:
-from __init__ import NumericalDerivatives, ufloat, covariance_matrix, __author__
+from lmfit.uncertainties.__init__ import NumericalDerivatives, ufloat, covariance_matrix, __author__
 import umath
 import test_uncertainties
 
